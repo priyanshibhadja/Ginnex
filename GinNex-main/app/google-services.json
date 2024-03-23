@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429101261862",
+    "project_id": "ginnex-7ec69",
+    "storage_bucket": "ginnex-7ec69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429101261862:android:15267fd619d080aaf072e7",
+        "android_client_info": {
+          "package_name": "com.example.ginnex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ez6dYz8qkJQ57GFf4G-9QK7XSuoJfm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
